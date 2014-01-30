@@ -1,5 +1,19 @@
-## Zombie-Outbreak Epicenter
+algorithms are not dry when they are useful.
 
+
+we'll have Big data applications (sorting is really important).
+
+* Sports -- recruiting and stats sifting -- moneyball
+* Medicine -- analyzing samples from an outbreak
+* Robots -- determining the best path from A to B using different algorithms.
+* Machine Learning -- automatically adjust your `nest` temperature 
+
+## 
+
+
+
+
+## Zombie-Outbreak Epicenter
 
 You have 3 units and you want to get to the epicenter in order to address the source.
 
