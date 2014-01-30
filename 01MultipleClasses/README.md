@@ -134,6 +134,21 @@ Use Eclipse to make a helper class that turns inches into a meaningful dimension
 
 Make an Android application that uses a helper class to simplify making a toast. 
 
+
+How to make a Toast:
+```android
+Toast.makeText(getApplicationContext(), "I am in your device, accessing your androids! = )",
+   Toast.LENGTH_LONG).show();
+```
+
+
+Reduce the time to type, make it look like this:
+```android
+HelperClass.makeToast("Your fingers thank you!");
+```
+
+fun fun, see how fast it can be done.
+
 <!--## Why helper classes
 
 less scrolling in code
