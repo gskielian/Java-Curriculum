@@ -24,6 +24,21 @@ public class HelloWorld {
 }
 ```
 
+#### To create and run your java file:
+
+
+**compile**
+```sh
+javac HelloWorld.java
+```
+
+**run**
+
+```sh
+java HelloWorld
+```
+
+
 ## with IDE
 
 Eclipse Example
@@ -39,7 +54,13 @@ Eclipse Example
 
 <!--Intellij Example new feature added-->
 
-<!--MVC intro -- point M "data" (like facebook data), V "view" ("what you see"), C "controller" gets data to page, and pagestuff into your base.
+<!--MVC intro -- point M "data" (like facebook data), V "view" ("what you see"), C "controller" gets data to page -- your code aka "logic" -- , and pagestuff into your base.-->
 
+#### Eclipse
 
+* MVC paradigm (easy) 
+* Level 1: TextView
+  * how to 
+* Level 2: Toast
+* Level 3: Pages
 
