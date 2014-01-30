@@ -136,14 +136,13 @@ Make an Android application that uses a helper class to simplify making a toast.
 
 
 How to make a Toast:
-```android
-Toast.makeText(getApplicationContext(), "I am in your device, accessing your androids! = )",
-   Toast.LENGTH_LONG).show();
+```java
+Toast.makeText(getApplicationContext(), "I am in your device, accessing your androids! = )", Toast.LENGTH_LONG).show();
 ```
 
 
 Reduce the time to type, make it look like this:
-```android
+```java
 HelperClass.makeToast("Your fingers thank you!");
 ```
 
