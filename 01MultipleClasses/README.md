@@ -74,7 +74,7 @@ and type `tree`, your output should look like this:
 
 Compile:
 ```sh
-javac cp . ./com/stuff/*.java
+javac -cp . ./com/stuff/*.java
 ```
 
 
