@@ -24,6 +24,8 @@ Now go into the `stuff` directory:
 cd com/stuff
 ```
 
+### Write the code
+
 and start writing your `HelloWorld.java` file:
 ```sh
 vim HelloWorld.java
@@ -58,7 +60,19 @@ public class HelperClass {
 }
 ```
 
-cd back two directories with:
+The `package com.stuff` makes sure each file has access to everything in the `./com/stuff` folder (and can use the public abilities of the other classes).
+
+`HelloWorld.class` can therefore use HelperClass's `sayWassup` ability (see the line `HelperClass.sayWassup`)
+
+
+### Compiling and Making Projects
+
+This ain't no simple sketch, this is a _project_.  
+
+Take a few steps back before you compile and run the glory :sunglasses:
+
+
+Go ahead and cd back two directories with:
 ```sh
 cd ../../
 ```
@@ -85,7 +99,18 @@ java -classpath ./com/stuff.HelloWorld
 
 ```
 
+Your code should say `Hello World` then say `Wassup`, like this:
 
+```
+Hello World
+Wassup
+```
+
+Congrats! You can now use the special powers of the other classes in your package directory!
+
+
+
+#### Fun
 for fun, type `tree` and notice the stuff made by your `javac` command step:
 ```sh
 .
