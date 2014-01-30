@@ -126,6 +126,18 @@ for fun, type `tree` and notice the stuff made by your `javac` command step:
 
 ## IDE
 
+Use Eclipse to make a helper class that turns inches into a meaningful dimension like cm.
 
+<!-- just multiply by 2.54 -->
 
 ## Android
+
+Make an Android application that uses a helper class to simplify making a toast. 
+
+<!--## Why helper classes
+
+less scrolling in code
+can work with friends  -- I'll make the main, you make a helper class which connects to the port I specify
+reusable code -- just copy pasta into other project, and -- voila! -- more superpowers
+also if you name it sensibly, it makes your code easier to read -- this will be important when you make your teams
+-->
