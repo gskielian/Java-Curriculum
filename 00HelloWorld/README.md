@@ -28,9 +28,18 @@ public class HelloWorld {
 
 Eclipse Example
 
-<!--Intellij Example new feature added-->
+
+<!-- create an elective called coding in style for eclipse, vim, and sublime themes -->
+<!--IntelliJ Example new feature added-->
+
+<!-- create a screencast for the Eclipse IDE, also create gif steps for the IDE and annotate with markdown -->
 
 
 ## Android Example
 
 <!--Intellij Example new feature added-->
+
+<!--MVC intro -- point M "data" (like facebook data), V "view" ("what you see"), C "controller" gets data to page, and pagestuff into your base.
+
+
+
