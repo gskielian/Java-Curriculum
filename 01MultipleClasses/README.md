@@ -95,7 +95,7 @@ javac -cp . ./com/stuff/*.java
 
 run with:
 ```sh
-java -classpath ./com/stuff.HelloWorld
+java -classpath . com/stuff.HelloWorld
 
 ```
 
