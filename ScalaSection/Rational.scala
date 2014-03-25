@@ -1,4 +1,4 @@
-package week3
+package ScalaSection
 
 object Rational {
   val x = new Rational(1, 3) //> x  : week2.Rational = 1/3
